@@ -1,0 +1,2445 @@
+Typenummer
+DiamondClean 
+Smart
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   1 13/02/17   16:38
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   2 13/02/17   16:38
+4
+3
+5
+6
+8
+11
+7
+13
+9
+10
+21
+12
+13
+15
+14
+1
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   3 13/02/17   16:38
+1
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   4 13/02/17   16:38
+English  6
+Español Mexicano  29
+Français (Canada)  54
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   5 13/02/17   16:38
+IMPORTANT 
+SAFEGUARDS
+Warning: READ ALL INSTRUCTIONS 
+BEFORE USE
+When using electrical products, especially when 
+children are present, basic safety precautions 
+should always be followed, including the following:
+DANGERS
+To reduce the risk of electrocution:
+1  Always place and store the charger at a safe 
+distance from water.
+2  Do not reach for a product that has fallen into 
+water. Unplug immediately.
+3  Never use a charger with a damaged cord or 
+plug.
+WARNINGS
+To reduce the risk of burns, electrocution, fire or 
+physical injury:
+1  Do not use attachments other than those 
+recommended by the manufacturer.
+2  Do not plug into an outlet with a voltage other 
+than specified on the bottom of the product. 
+This product is designed to operate within a 
+range of 100 to 240 volts. Voltage converters do 
+not warrant voltage compatibility.
+3  Never force the plug into an outlet; if the plug 
+does not easily fit into the outlet, discontinue use.
+4  Discontinue use if the product appears 
+damaged in any way (brush head, handle or 
+charger, etc.).
+6 English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   6 13/02/17   16:38
+5  The mains cord cannot be replaced. If the mains 
+cord is damaged, discard the charger.
+6  Keep the cord away from heated surfaces.
+7  Do not use the base charger outdoors or near 
+heated surfaces.
+8  This product contains no user-serviceable parts. 
+Refer to ‘Warranty and support’ if the product 
+no longer works properly or needs repair.
+9  Use this product only for its intended use as 
+described in this document or as recommended 
+by your dental professional.
+10  This product is not intended for use by 
+persons (including children) with reduced 
+physical, sensory, or mental capabilities, or 
+lack of experience and knowledge, unless they 
+have been given supervision or instruction 
+concerning use of the appliance by a person 
+responsible for their safety.
+11  Children should be supervised to ensure that 
+they do not play with the product.
+12  Philips Sonicare is a personal care device and 
+is not intended for use on multiple patients in a 
+dental office or institution.
+13  Use UL Listed computer, USB Hub or USB 
+duplex receptacle when charging the 
+toothbrush handle in the travel case.
+14  When using a computer to recharge the 
+toothbrush handle, the computer should be 
+located away from sources of water  
+(i.e. sink or tub) so as to avoid electrical shock.
+15  In order to effectively charge your Philips 
+Sonicare do not place your charger base on a 
+magnetic metal surface.
+7English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   7 13/02/17   16:38
+16  The product is not intended to be repaired 
+by service personnel in case of failure or 
+component defect (unit can be thrown away).
+17  For connection to a supply not in the U.S.A., use 
+a charger of the proper configuration for the 
+power outlet.
+18  Use this product only for its intended use 
+as described in this manual. Do not use 
+attachments not recommended by the 
+manufacturer.
+MEDICAL WARNINGS
+1  Consult your dental professional before you 
+use this product if you have had oral or gum 
+surgery in the previous 2 months.
+2  Contact your dental professional if excessive 
+bleeding occurs after using this product or 
+bleeding continues to occur after 1 week of use.
+3  Discontinue use of this product and contact 
+a physician/dentist if discomfort or pain is 
+experienced.
+4  This product complies with the safety standards 
+for electromagnetic devices. If you have a 
+pacemaker or other implanted device, contact 
+your physician or the device manufacturer prior 
+to use.
+5  Consult your physician if you have other 
+medical concerns.
+ Electromagnetic fields (EMF)
+This Philips device complies with all applicable 
+standards and regulations regarding exposure to 
+electromagnetic fields.
+SAVE THESE 
+INSTRUCTIONS
+8 English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   8 13/02/17   16:38
+Radio Equipment Directive
+ - Radio Equipment in this product operates 
+between 2402 – 2480 MHz
+ - Maximum RF power transmitted by the Radio 
+Equipment is +3 dBm
+Introduction
+Congratulations on your purchase and welcome 
+to Philips! To fully benefit from the support that 
+Philips offers, register your product at  
+www.philips.com/welcome or via the Philips 
+Sonicare app.
+Your Philips Sonicare (Fig. 1) 
+1  Hygienic travel cap
+2  Brush heads
+3  Handle
+4  Power on/off button
+5  Intensity light
+6  Mode/intensity button
+7  Mode light
+8  Brush head replacement reminder light
+9  Battery indication
+10  Light ring
+11  Charging base
+12  Travel case
+13  Cord storage compartment
+14  USB cord (integrated)
+15  Charging glass
+Note: The content of the box may vary based on 
+the model purchased.
+Brush heads
+Your Philips Sonicare comes with a range of brush 
+heads which are designed to deliver superior 
+results for your oral care needs. 
+9English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   9 13/02/17   16:38
+The number and type of brush heads might 
+change according to the toothbrush type you 
+purchased.
+1  Premium Plaque Control brush head
+2  Premium Gum Care brush head
+3  Premium White brush head
+4  Tongue Care+ brush head (specific types only)
+Smart brush head recognition
+Premium Plaque Control, Premium Gum Care, 
+Premium White and Tongue Care+ brush heads 
+are enabled with smart brush head recognition 
+technology.
+A micro-chip inside the brush head communicates 
+with the toothbrush handle. So when you attach a 
+brush head, the handle automatically recognizes 
+the brush head and selects the recommended 
+mode and intensity level to optimize your brushing 
+performance.
+Thanks to this feature the toothbrush also tracks 
+your usage and gives a personalized reminder 
+when you need to replace your brush head for the 
+best oral care results.
+Brushing modes
+Your power toothbrush is equipped with 5 different 
+modes to accommodate all your oral care needs 
+(some models come with 4 brushing modes only). 
+The following modes are available:
+10 English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   10 13/02/17   16:38
+Clean mode
+Clean is a 2-minute mode, recommended to be 
+used with intensity level 3. It gives you a thorough 
+and complete clean and is recommended to be 
+used with the Premium Plaque Control brush 
+head. In order to reach optimal results, follow the 
+instructions below.
+1  Begin brushing the upper right teeth (segment 1) 
+and brush for 20 seconds, on both the outer and 
+inner surfaces, before you move to the upper 
+front teeth (segment 2). Continue doing this for 
+segments 3 to 6 to ensure even brushing in all 
+6 segments of the mouth. You will hear a beep 
+after each 20-second interval, to indicate that you 
+should move to the next segment.
+White+ mode
+White+ is a 2-minute 40-seconds mode, 
+recommended to be used with intensity level 
+3 and the Premium White brush head. In order 
+to reach optimal results, follow the instructions 
+below. 
+1  Begin brushing the upper right teeth (segment 
+1) and brush for 20 seconds before you move 
+to the upper front teeth (segment 2). Continue 
+doing this for segments 3 to 6 to ensure even 
+brushing in all 6 sections of the mouth.
+2  After completing all 6 of these segments, 
+the toothbrush switches to polishing mode 
+automatically.
+2
+13
+64
+5
+2
+13
+64
+5
+11English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   11 13/02/17   16:38
+3  To polish your teeth, brush the outer surface of 
+your upper teeth for 20 seconds (segment 2) 
+and then brush the outer surface of your lower 
+teeth for 20 seconds (segment 5). The polishing 
+motion used in this part of the mode will feel 
+and sound different from the first two minutes 
+of the mode.
+Gum Health mode
+Gum Health is a 3-minute 20-seconds mode, 
+recommended to be used with intensity level 3 
+and the Premium Gum Care brush head. In order 
+to reach optimal results, follow the instructions 
+below:
+1  Begin brushing the upper right teeth (segment 1) 
+and brush for 20 seconds, on both the outer and 
+inner surfaces, before you move to the upper 
+front teeth (segment 2). Continue doing this for 
+section 3 to 6 to ensure even brushing in all 6 
+segments of the mouth.
+2  Next, to take optimal care for your gums, brush the 
+outer and inner surfaces of your upper right back 
+teeth for 20 seconds (segment 1), then brush the 
+outer and inner surfaces of your upper left back 
+teeth for 20 seconds (segment 3).
+Continue brushing the outer and inner surfaces 
+of your lower right back teeth for 20 seconds 
+(segment 4), followed by another 20 seconds 
+on the outer and inner surfaces of your lower 
+left back teeth (segment 6). The brushing 
+motion used in this part of the mode will feel 
+and sound different from the first two minutes 
+of the mode.
+2
+5
+2
+13
+64
+5
+13
+64
+12 English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   12 13/02/17   16:38
+DeepClean+ mode
+DeepClean+ mode length depends on whether 
+or not the handle is connected to the app. In 
+connected mode DeepClean+ runs for two 
+minutes and provides BrushPacer feedback every 
+20 seconds. In non-connected mode DeepClean+ 
+runs for three minutes and provides BrushPacer 
+feedback every 30 seconds. In order to reach 
+optimal results, follow the instructions below when 
+brushing non-connected.
+ - Begin brushing in the upper right teeth 
+(segment 1) and brush for 30 seconds, on both 
+the outer and inner surfaces, before you move 
+to the upper front teeth (segment 2). Continue 
+doing this for segments 3 to 6 to ensure even 
+brushing in all 6 segments of the mouth.
+Tongue Care mode (specific types only)
+Tongue Care is a 20-second mode, recommended 
+to be used with intensity level 1 and the Tongue 
+Care+ brush head. In order to reach optimal results, 
+follow the instructions below:
+2
+13
+64
+5
+13English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   13 13/02/17   16:38
+1  Wet the micro bristles and brush your tongue 
+with a back and forth motion. Clean as far back 
+as comfortable. 
+2  Rinse your mouth and repeat the procedure 
+two more times.
+Based on the brush head you attach, the mode will 
+be selected automatically. If you want to adjust 
+the mode or intensity manually, you can do this by 
+using the mode/intensity button. Press the mode/
+intensity button before brushing to change the 
+mode, and press it while brushing to adjust the 
+intensity level. Your selection will be remembered 
+next time you attached the same brush head. If 
+you want to go back to the initial recommended 
+settings for your brush head, manually change it to 
+the recommended setting described above.
+Note: When the Philips Sonicare is used in clinical 
+studies, it must be used at high intensity in the 
+Clean mode, in White+ mode, in GumHealth mode, 
+or in unconnected DeepClean+ mode to achieve 
+the efficacy in plaque removal, stain removal, gum 
+health or superiority (respectively).
+Intensity settings
+Your power toothbrush gives you the option to 
+choose between 3 different intensity levels: low, 
+medium and high. Based on the brush head you 
+attach, the intensity will be selected automatically. 
+If you wish to change to a different intensity, 
+you can do so by pressing the mode/intensity 
+button while brushing. For optimal results it is 
+recommended to use the automatically selected 
+intensity. The intensity cannot be changed as long 
+as the handle is powered off or paused.
+20 sec.
+14 English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   14 13/02/17   16:38
+Using your Philips Sonicare
+Brushing instructions
+1  Attach your desired brush head (see 'Brush 
+heads'). Align the brush head so the bristles 
+point in the same direction as the front of the 
+handle.
+2  Wet the bristles.
+3  Apply a small amount of toothpaste on the 
+bristles.
+4  Place the toothbrush bristles against the teeth 
+at a slight angle (45 degrees), pressing firmly to 
+make the bristles reach the gumline or slightly 
+beneath the gumline. A change in vibration (and 
+a slight change in sound) and activation of the 
+light ring alert you when you apply too much 
+pressure while brushing.
+Note: Keep the center of the brush in contact 
+with the teeth at all times.
+15English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   15 13/02/17   16:38
+5  Press the power on/off button to switch on the 
+Philips Sonicare.
+6  Apply light pressure to maximize Philips 
+Sonicare's effectiveness. Brush your teeth with 
+a small back and forth motion so the bristles 
+reach between the teeth. Continue this motion 
+throughout the brushing cycle.
+Note: The bristles should flare slightly. Do not 
+scrub.
+7  To clean the inside surfaces of the front teeth, 
+tilt the brush handle semi-upright and make 
+several vertical overlapping brushing strokes on 
+each tooth.
+Your Philips Sonicare is safe to use on:
+ - Braces (brush heads wear out sooner when 
+used on braces).
+ - Dental restorations (fillings, crowns, veneers).
+Features and accessories
+a  App
+b  Pressure sensor
+c  Brush head replacement reminder
+d  BrushPacer
+e  Easy-start
+f  Travel case (specific types only)
+g  Brush head holder (specific types only)
+16 English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   16 13/02/17   16:38
+a. App
+Your Philips Sonicare is Bluetooth enabled and 
+allows you to achieve superior oral health care 
+with the Philips Sonicare app. 
+Using the Philips Sonicare app will help you to 
+improve your oral health care habits. It gives you 
+real-time feedback while brushing, informs you if 
+you missed any spots when brushing, tracks your 
+brushing behavior over time and provides useful 
+tips and tricks for your healthiest mouth ever. In 
+order to fully benefit from your Philips Sonicare, 
+we advise you to follow these steps:
+Connecting your toothbrush
+1  Download the Philips Sonicare app from the 
+Apple App Store or Google Play Store.
+2  Confirm Bluetooth is switched on on your 
+mobile device before you open the app. Check 
+the settings on your mobile device to switch on 
+Bluetooth.
+3  Open the Sonicare app.
+4  To connect the toothbrush to the app, remove 
+the handle from the charger and press the 
+mode/intensity button.
+5  Follow the Sonicare app instructions displayed 
+on your mobile device. The app automatically 
+connects with the toothbrush. If the toothbrush 
+does not connect, follow the troubleshooting 
+steps provided in the app.
+Note: For optimal data capture, keep your mobile 
+device close during brushing.
+17English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   17 13/02/17   16:38
+b. Pressure sensor
+Your Philips Sonicare is equipped with an 
+advanced sensor that measures the pressure 
+you apply while brushing. If you apply too much 
+pressure, the toothbrush will provide immediate 
+feedback to indicate that you need to reduce the 
+pressure. The feedback is given in two different 
+ways:
+1  You experience a change in vibration and 
+therefore brushing sensation.
+2  The pressure warning light of the light ring will 
+light up purple.
+If you receive a warning, reduce the pressure. The 
+light will turn off and the brushing sensation will 
+adjust to the original sensation.
+Activating or deactivating the pressure 
+sensor 
+1  Place the handle, with a brush head attached, 
+in the plugged-in charger.
+2  Pressure sensor is enabled by holding the 
+mode/intensity button and by pressing the 
+power button twice while on a charger. The 
+handle will beep twice to confirm it is enabled.
+3  Pressure sensor is disabled by holding the 
+mode/intensity button and by pressing the 
+power button twice while on a charger. The 
+handle will beep once to confirm it is disabled.
+18 English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   18 13/02/17   16:38
+c. Brush head replacement reminder
+Your Philips Sonicare is equipped with a smart 
+feature that tracks the wear of your brush head. 
+Depending on the pressure you apply and the 
+amount of time used, the brush head replacement 
+reminder light reminds you to change your brush 
+head. It is important to change your brush head in 
+time in order to guarantee the best cleaning & care 
+of your teeth. 
+When the amber brush head replacement light 
+starts blinking, you should replace your brush 
+head.
+Activating or deactivating the brush head 
+replacement reminder
+1  Place the handle in the plugged-in charger.
+2  Brush head replacement reminder is enabled 
+by holding the mode/intensity button and by 
+pressing the power button three times while 
+on the charger. The handle will beep twice to 
+confirm it is enabled.
+3  Brush head replacement reminder is disabled 
+by holding the mode/intensity button and by 
+pressing the power button three times while 
+on the charger. The handle will beep once to 
+confirm it is disabled.
+d. BrushPacer
+The BrushPacer is an interval timer that has a 
+short beep and pause to remind you to brush the 
+different sections of your mouth. Depending on the 
+brushing mode you have selected (see 'Brushing 
+modes'), the BrushPacer beeps at different 
+intervals during the brushing cycle.
+2
+3 1
+64
+5
+19English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   19 13/02/17   16:38
+e. Easy-start
+The Easy-start feature gently increases the power 
+over the first 14 brushings to help you get used 
+to the brushing with the Philips Sonicare. The 
+Easy-start feature works in all modes other than 
+TongueCare+ mode. This Philips Sonicare model 
+comes with the Easy-start feature deactivated.
+Activating or deactivating the Easy-start 
+feature
+1  Place the handle in the plugged-in charger.
+2  Easy-start is enabled by holding the mode/
+intensity button and by pressing the power 
+button once while on the charger. The handle 
+will beep twice to confirm it is enabled.
+3  Easy start is disabled by holding the mode/
+intensity button and by pressing the power 
+button once while on the charger. The handle 
+will beep once to confirm it is disabled.
+Note: Using the Easy-start feature beyond the 
+initial ramp-up period is not recommended and 
+reduces Philips Sonicare effectiveness in removing 
+plaque.
+Note: Each of the first 14 brushings must be at least 
+1 minute in length to properly move through the 
+Easy-start ramp-up cycle.
+Note: To achieve clinical efficacy, Easy-start needs 
+to be deactivated.
+20 English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   20 13/02/17   16:38
+f. Travel case (specific types only)
+Your Philips Sonicare comes with a travel case to 
+make traveling with your power toothbrush more 
+convenient. It is designed to accommodate the 
+power toothbrush handle and two brush heads. 
+Some models come with a USB charging travel 
+case which connects to your laptop via USB -this 
+allows you to charge your Philips Sonicare when 
+traveling. For information about charging your 
+Philips Sonicare with the travel case, see ‚Battery 
+status and charging‘.
+Battery status and charging
+Charging with glass (specific types only)
+1  Plug the charging base into a wall socket.
+2  Place the charging glass on top of the charging 
+base and place the handle in the glass.
+The charging indicator flashes white until your 
+toothbrush is fully charged.
+Charging with travel case (specific types only)
+1  Place the handle in the charging travel case.
+2  Connect the charging travel case to a UL 
+60950-1 and IEC 60950-1 Listed computer, 
+laptop, USB hub, USB receptacle, or wall 
+adapter. The USB cord is attached to the 
+travel case and stored in the cord storage 
+compartment.
+3  The wall adapter shall have an output marked 
+Class 2 or the limited power source (LPS) 
+requirements and compatible with the electrical 
+ratings marked on the travel case.
+4  The battery indication flashes white until your 
+toothbrush is fully charged.
+21English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   21 13/02/17   16:38
+Important: The wall adapter must be a safe extra 
+low voltage source, compatible with the electrical 
+ratings marked on the device.
+Important: Only toothbrush models HX993W, 
+HX993B, HX993P, HX993S, HX993L can be 
+charged in the travel case. Other products and 
+batteries are not compatible with the travel case.
+Note: It takes at least 24 hours to fully charge your 
+Philips Sonicare. You do not have to fully charge 
+your handle before first use, as the handle is pre-
+charged for first use. However, it is recommended 
+to fully charge it after first use.
+Note: This charger is designed to properly charge 
+only one handle at a time. This charger is not 
+compatible with other models of Philips Sonicare.
+Note: Do not place metallic objects in the travel 
+case, as handle charging may be affected and may 
+cause the charger to overheat.
+Cleaning
+Note: Do not clean the brush head, handle or 
+travel case in the dishwasher.
+Toothbrush handle
+1  Remove the brush head and rinse the metal 
+shaft area with warm water. Make sure you 
+remove any residual toothpaste.
+Caution: Do not push on the rubber seal on 
+the metal shaft with sharp objects, as this may 
+cause damage.
+2  Wipe the entire surface of the handle with a 
+damp cloth.
+Note: Do not use isopropyl rubbing alcohol, 
+vinegar or bleach to clean handle as this may 
+cause discoloration.
+22 English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   22 13/02/17   16:38
+Brush head
+1  Rinse the brush head and bristles after each 
+use.
+2  Remove the brush head from the handle and 
+rinse the brush head connection with warm 
+water at least once a week.
+Charger and travel case
+1  Unplug the charger and travel case before you 
+clean it.
+2  Use a damp cloth to wipe the surface of the 
+charger and travel case.
+Glass
+1  Clean the glass with water and some mild soap.
+2  Dry the glass with a soft towel.
+The glass is dishwasher-safe.
+Storage
+If you are not going to use your Philips Sonicare 
+for an extended period of time, unplug the charger 
+from the wall socket, clean it and store it in a cool 
+and dry place away from direct sunlight.
+Locating the model number
+Look on the bottom of the Philips Sonicare 
+toothbrush handle for the model number 
+(HX992W, HX992B, HX992P, HX992S, 
+HX992L,HX993W, HX993B, HX993P, HX993S, 
+HX993L)
+23English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   23 13/02/17   16:38
+Disposal
+This appliance contains a rechargeable battery 
+which must be disposed of properly. Contact your 
+local town or city officials for battery disposal 
+information. You can also call 1-800-8-BATTERY 
+or visit www.rbrc.com for battery drop-off 
+locations.
+For assistance, visit our website www.philips.com/
+support or call 1-800-243-3050 toll free.
+Removing the rechargeable battery
+Warning: Only remove the rechargeable battery 
+when you discard the appliance. Make sure the 
+battery is completely empty when you remove it.
+To remove the rechargeable battery, you need 
+a towel or cloth, a hammer and a flat-head 
+(standard) screwdriver. Observe basic safety 
+precautions when you follow the procedure 
+outlined below. Be sure to protect your eyes, 
+hands, fingers, and the surface on which you work.
+1  To deplete the rechargeable battery of any 
+charge, remove the handle from the charger, 
+turn on the Philips Sonicare and let it run until it 
+stops. Repeat this step until you can no longer 
+turn on the Philips Sonicare.
+2  Remove and discard the brush head. Cover the 
+entire handle with a towel or cloth.
+24 English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   24 13/02/17   16:38
+3  Hold the top of the handle with one hand and 
+strike the handle housing 0.5 inch above the 
+bottom end. Strike firmly with a hammer on all 4 
+sides to eject the end cap.
+Note: You may have to hit on the end several 
+times to break the internal snap connections.
+4  Remove the end cap from the toothbrush 
+handle. If the end cap does not release easily 
+from the housing, repeat step 3 until the end 
+cap is released.
+5  Holding the handle upside down, press the 
+shaft down on a hard surface. If the internal 
+components do not easily release from 
+the housing, repeat step 3 until the internal 
+components are released.
+6  Remove the rubber battery cover.
+7  Wedge the screwdriver between the battery 
+and the black frame at the bottom of the 
+internal components. Then pry the screwdriver 
+away from the battery to break the bottom of 
+the black frame.
+1
+2
+25English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   25 13/02/17   16:38
+8  Insert the screwdriver between the bottom of 
+the battery and the black frame to break the 
+metal tab connecting the battery to the green 
+printed circuit board. This will release the 
+bottom end of the battery from the frame.
+9  Grab the battery and pull it away from the 
+internal components to break the second metal 
+battery tab.
+Caution: Be aware of the sharp edges of the 
+battery tabs so as to avoid injury to your 
+fingers.
+10  Cover the battery contacts with tape to prevent 
+any electrical short from residual battery 
+charge. The rechargeable battery can now be 
+recycled and the rest of the product discarded 
+appropriately.
+FCC Compliance Statement
+This device complies with Part 15 of the FCC 
+Rules. Operation is subject to the following two 
+conditions:
+1  This device may not cause harmful interference, 
+and 
+2  This device must accept any interference 
+received, including interference that may cause 
+undesired operation.
+Changes or modifications not expressly approved 
+by Philips Oral Healthcare could void the user‘s 
+authority to operate the equipment.
+ 
+26 English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   26 13/02/17   16:38
+Industry Canada Compliance Statement
+This device complies with Industry Canada 
+license-exempt RSS standard(s). Operation is 
+subject to the following two conditions: 
+1  This device may not cause interference, and 
+2  This device must accept any interference, 
+including interference that may cause 
+undesired operation of the device.
+Warranty and support
+Philips warrants its products for two years after the 
+date of purchase. Defects due to faulty materials 
+and workmanship will be repaired or replaced at 
+Philips’ expense provided that convincing proof 
+of purchase in the qualifying period is provided. 
+Philips recommends use of genuine Sonicare 
+brush heads for optimal performance. Use of 
+other brush heads may damage your Sonicare 
+toothbrush and limit your warranty protection. 
+Contact our Consumer Care Center at 1-800-
+682-7664 (North America), outside North America 
+contact your local Philips Consumer Care Center. 
+Internet information: www.sonicare.com (North 
+America) or www.philips.com/support (outside 
+North America).
+27English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   27 13/02/17   16:38
+WARRANTY EXCLUSIONS
+What is not covered under warranty:
+ - Brush heads.
+ - Damage caused by use of unauthorized 
+replacement parts or unauthorized brush heads.
+ - Damage caused by misuse, abuse, neglect, 
+alterations or unauthorized repair.
+ - Normal wear and tear, including chips, 
+scratches, abrasions, discoloration or fading.
+IMPLIED WARRANTIES
+ANY IMPLIED WARRANTIES, INCLUDING IMPLIED 
+WARRANTIES OF MERCHANTABILITY AND 
+FITNESS FOR A PARTICULAR PURPOSE, SHALL 
+BE LIMITED TO THE DURATION OF THE EXPRESS 
+WARRANTIES SET FORTH ABOVE. IN SOME 
+STATES LIMITATIONS ON DURATION OF IMPLIED 
+WARRANTIES DO NOT APPLY.
+LIMITATION OF REMEDIES
+IN NO EVENT SHALL PHILIPS OR ANY OF ITS 
+AFFILIATED OR SUBSIDIARY COMPANIES BE 
+LIABLE FOR ANY SPECIAL, INCIDENTAL OR 
+CONSEQUENTIAL DAMAGES BASED UPON 
+BREACH OF WARRANTY, BREACH OF CONTRACT, 
+NEGLIGENCE, TORT, OR ANY OTHER LEGAL 
+THEORY. SUCH DAMAGES INCLUDE, WITHOUT 
+LIMITATION, LOSS OF SAVINGS OR REVENUE; 
+LOSS OF PROFIT; LOSS OF USE; THE CLAIMS 
+OF THIRD PARTIES INCLUDING, WITHOUT 
+LIMITATION, DENTISTS AND DENTAL HYGIENISTS; 
+AND COST OF ANY SUBSTITUTE EQUIPMENT OR 
+SERVICES. SOME STATES DO NOT ALLOW THE 
+EXCLUSION OR LIMITATION OF INCIDENTAL OR 
+CONSEQUENTIAL DAMAGES.
+28 English
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   28 13/02/17   16:38
+PRECAUCIONES 
+IMPORTANTES
+Advertencia: LEA TODAS LAS 
+INSTRUCCIONES ANTES DE USARLO
+Cuando use productos eléctricos, especialmente 
+cuando los niños están presentes, se debe 
+seguir las precauciones básicas, incluyendo las 
+siguientes:
+PELIGROS
+Para reducir el riesgo de electrocución:
+1  Siempre coloque y guarde el cargador a una 
+distancia segura del agua.
+2  No intente recoger un producto que haya caído 
+al agua. Desenchúfelo inmediatamente.
+3  No enchufe el cargador si el cable o la clavija 
+están dañados.
+ADVERTENCIAS
+Para reducir el riesgo de quemaduras, 
+electrocución, incendio o lesiones físicas:
+1  No utilice accesorios distintos a los 
+recomendados por el fabricante.
+2  No lo conecte a una toma de corriente con un 
+voltaje diferente al especificado en la parte 
+inferior del producto. Este producto se ha 
+diseñado para que funcione con voltajes de 
+100 a 240 voltios. Los convertidores de voltaje 
+no garantizan compatibilidad de voltaje.
+3  Nunca enchufe la clavija en una toma de 
+corriente a la fuerza; si la clavija no se enchufa 
+fácilmente en la toma de corriente, suspenda su 
+uso.
+29Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   29 13/02/17   16:38
+4  Suspenda su uso si el producto parece estar 
+dañado de cualquier manera (cabezal de 
+cepillo, mango, cargador, etc.).
+5  El cable de alimentación no se puede 
+reemplazar. Si el cable se daña, deseche el 
+cargador.
+6  Mantenga el cable lejos de superficies calientes.
+7  No use el cargador de base a la intemperie o 
+cerca de superficies calientes.
+8  Este producto no contiene piezas que puedan 
+ser reparadas por el usuario. Si el producto no 
+funciona correctamente o necesita reparación, 
+consulte la sección „Garantía y asistencia“.
+9  Utilice este producto solo para el uso al que 
+está destinado tal y como se describe en este 
+documento o siguiendo las recomendaciones 
+de su dentista.
+10  Este producto no debe ser usado por personas 
+(adultos o niños) con su capacidad física, 
+psíquica o sensorial reducida, ni por quienes 
+no tengan los conocimientos y la experiencia 
+necesarios, a menos que sean supervisados o 
+instruidos acerca del uso del aparato por una 
+persona responsable de su seguridad.
+11  Evite que los niños jueguen con este producto.
+12  Philips Sonicare es un dispositivo de aseo 
+personal y no se debe usar con diferentes 
+pacientes en ningún consultorio o clínica 
+dental.
+13  Use una computadora con denominación UL, 
+cubo USB o un receptáculo duplex USB cuando 
+cargue el mango del cepillo en el estuche de 
+viaje.
+30 Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   30 13/02/17   16:38
+14  Cuando use una computadora para cargar el 
+mango del cepillo eléctrico, la computadora 
+debe estar ubicada lejos de fuentes de agua (ej. 
+lavabos o tubos para evitar cualquier descarga 
+eléctrica.
+15  Para cargar efectivamente el Sonicare de 
+Philips no coloque la base del cargador sobre 
+una superficie metálica magnética.
+16  Este producto no está diseñado para poder ser 
+reparado por personal de servicio en caso de 
+que falle o de que algún componente tenga un 
+defecto (la unidad puede desecharse).
+17  Para ponerse en contacto con un proveedor 
+fuera de EE. UU., use el cargador con la 
+configuración apropiada para la toma de 
+corriente.
+18  Utilice este producto solo para el fin al cual 
+está destinado tal y como se describe en este 
+manual. No use accesorios no recomendados 
+por el fabricante.
+ADVERTENCIAS MÉDICAS
+1  Consulte a su dentista o higienista dental antes 
+de utilizar este producto si le han practicado 
+cirugía oral o de las encías en los 2 últimos 
+meses.
+2  Consulte a su dentista o higienista dental si 
+se produce un sangrado excesivo después de 
+usar este producto o si el sangrado continúa 
+produciéndose después de 1 semana de uso.
+3  Deje de utilizar este producto y consulte a un 
+médico o dentista si experimenta algún tipo de 
+dolor o molestia.
+31Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   31 13/02/17   16:38
+4  Este producto cumple con los estándares de 
+seguridad para dispositivos electromagnéticos. 
+Si tiene un marcapasos o cualquier otro 
+dispositivo implantado, consulte a su médico o 
+al fabricante del dispositivo antes de utilizar el 
+aparato.
+5  Si tiene alguna otra duda médica, consulte a su 
+médico.
+Campos electromagnéticos
+Este dispositivo de Philips cumple los estándares 
+y las normativas aplicables sobre exposición a 
+campos electromagnéticos.
+CONSERVE 
+ESTAS  
+INSTRUCCIONES
+Normativas del equipo de radio
+ - El equipo de radio en este producto opera con 
+entre 2402 – 2480 MHz
+ - La potencia máxima RF transmitida por el 
+equipo de radio es de +3 dBm
+Introducción
+¡Felicidades por su compra y bienvenido a Philips! 
+Para sacar el mayor partido a la asistencia que 
+Philips le ofrece, registre el producto en  
+www.philips.com/welcome o en la aplicación 
+Philips Sonicare.
+32 Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   32 13/02/17   16:38
+Su Philips Sonicare (Fig. 1) 
+1  Capuchón higiénico
+2  Cabezales de cepillo
+3  Mango
+4  Botón de encendido/apagado
+5  Luz de intensidad
+6  Botón de modo/intensidad
+7  Luz de modo
+8  Luz de recordatorio de reemplazo del cabezal 
+de cepillo
+9  Indicación de batería
+10  Anillo con luz
+11  Base de carga
+12  Estuche de viaje
+13  Compartimento para guardar el cable
+14  Cable USB (integrado)
+15  Vaso cargador
+Nota: El contenido de la caja puede variar en 
+función del modelo que adquiera.
+Cabezales de cepillo
+El Philips Sonicare viene con una amplia variedad 
+de cabezales de cepillo diseñados para brindar 
+resultados superiores para la salud bucal. 
+La cantidad y el tipo de cabezales de cepillo 
+pueden cambiar según el tipo de cepillo dental 
+que compre.
+1  Cabezal de cepillo Premium Plaque Control
+2  Cabezal de cepillo Premium Gum Care
+3  Cabezal de cepillo Premium White
+4  Tongue Care + cabezal de cepillo (tipos 
+específicos solamente)
+33Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   33 13/02/17   16:38
+Reconocimiento de cabezal de cepillo inteligente
+Los cabezales de cepillo Premium Plaque 
+Control, Premium Gum Care, Premium White y 
+Tongue Care+ cuentan con una tecnología de 
+reconocimiento de cabezal de cepillo inteligente.
+Una micro chip dentro del cabezal de cepillo se 
+comunica con el mango del cepillo de dientes. 
+De manera que cuando coloca el cabezal de 
+cepillo, el mango lo reconoce automáticamente y 
+selecciona el modo recomendado y el nivel de 
+intensidad para optimizar su desempeño de 
+cepillado.
+Gracias a esta característica el cepillo dental 
+también le da seguimiento a su uso y brinda 
+un recordatorio personalizado cuando necesita 
+reemplazar el cabezal de cepillo para obtener los 
+mejores resultados de cuidado bucal.
+Modos de cepillado
+El cepillo dental eléctrico está equipado con 
+5 modos diferentes para acomodar todas sus 
+necesidades de cuidado bucal (algunos modelos 
+vienen con 4 modos de cepillado solamente). 
+Están disponibles los siguientes modos:
+Modo de Limpieza
+Limpieza es un modo de 2 minutos, recomendado 
+para ser usado con el nivel de intensidad 3.  
+Le brinda una limpieza exhaustiva y completa 
+y se recomienda usar con el cabezal de cepillo 
+Premium Plaque Control. Para lograr resultados 
+óptimos, siga las siguientes instrucciones.
+34 Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   34 13/02/17   16:38
+1  Comience con los dientes superiores derechos 
+(segmento 1) y cepíllelos durante 20 segundos, 
+tanto en la superficie exterior como interior, 
+antes de pasar a los dientes superiores 
+frontales (segmento 2). Continúe de la misma 
+manera con los segmentos 3 a 6 para asegurar 
+un cepillado parejo en los 6 segmentos de 
+la boca. Escuchará un bip después de cada 
+intervalo de 20 segundos, para indicar que 
+debe pasar al siguiente segmento.
+Modo White+
+White+ es un modo de 2 minutos y 40 segundos, 
+recomendado para usarse con el nivel de 
+intensidad 3 y el cabezal de cepillo Premium 
+White. Para lograr resultados óptimos, siga las 
+siguientes instrucciones. 
+1  Comience con los dientes superiores derechos 
+(segmento 1) y cepíllelos durante 20 segundos 
+antes de pasar a los dientes superiores 
+frontales (segmento 2). Continúe haciendo 
+esto en los segmentos 3 a 6 para asegurar un 
+cepillado parejo en las 6 secciones de la boca.
+2  Después de completar los 6 segmentos, 
+el cepillo dental cambia al modo de pulir 
+automáticamente.
+2
+13
+64
+5
+2
+13
+64
+5
+35Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   35 13/02/17   16:38
+3  Para pulir los dientes, cepille la superficie 
+exterior de los dientes superiores por 20 
+segundos (segmento 2) y luego cepille la 
+superficie exterior de sus dientes inferiores 
+por 20 segundos (segmento 5). El movimiento 
+pulidor usado en esta parte del modo se sentirá 
+y sonará diferente a los primeros dos minutos.
+Modo Gum Health
+Gum Health es un modo de 3 minutos y 20 
+segundos, recomendado para usarse con el nivel 
+de intensidad 3 y el cabezal de cepillo Premium 
+Gum Care. Para lograr resultados óptimos, siga las 
+siguientes instrucciones:
+1  Comience con los dientes superiores derechos 
+(segmento 1) y cepíllelos durante 20 segundos, 
+tanto en la superficie exterior como interior, 
+antes de pasar a los dientes superiores 
+frontales (segmento 2). Continúe haciendo 
+esto en las secciones 3 a 6 para asegurar un 
+cepillado parejo en los 6 segmentos de la boca.
+2  Después, para brindar un óptimo cuidado a 
+sus encías, cepille las superficies exterior e 
+interior de los dientes superiores derechos 
+por 20 segundos (segmento 1), luego cepille 
+las superficies exterior e interior de los dientes 
+posteriores izquierdos por 20 segundos 
+(segmento 3).
+Continúe cepillando las superficies exterior e 
+interior de los dientes posteriores derechos 
+por 20 segundos (segmento 4), seguido por 
+otros 20 segundos en las superficies exterior 
+e interior de los dientes posteriores izquierdos 
+(segmento 6). El movimiento del cepillado 
+que se usa en esta parte del modo se sentirá y 
+sonará diferente de los primeros dos minutos.
+2
+5
+2
+13
+64
+5
+13
+64
+36 Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   36 13/02/17   16:38
+Modo DeepClean+
+La duración del modo DeepClean+ depende de 
+si el mango está o no conectado a la aplicación. 
+En el modo conexión DeepClean+ funciona 
+por dos minutos y proporciona comentarios de 
+BrushPacer cada 20 segundos. En el modo sin 
+conexión DeepClean+ funciona por tres minutos y 
+proporciona comentarios de BrushPacer cada 30 
+segundos. Para poder lograr óptimos resultados, 
+siga las instrucciones siguientes cuando se cepilla 
+sin conexión. 
+ - Comience con los dientes superiores derechos 
+(segmento 1) y cepíllelos durante 30 segundos, 
+tanto en la superficie exterior como interior, 
+antes de pasar a los dientes superiores 
+frontales (segmento 2). Continúe de la misma 
+manera con los segmentos 3 a 6 para asegurar 
+un cepillado parejo en los 6 segmentos de la 
+boca.
+Modo Tongue Care (tipos específicos 
+solamente)
+Tongue Care es un modo de 20 segundos, 
+recomendado para usarse con el nivel de 
+intensidad 1 y el cabezal de cepillo Tongue Care+. 
+Para lograr resultados óptimos, siga las siguientes 
+instrucciones:
+2
+13
+64
+5
+37Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   37 13/02/17   16:38
+1  Moje las micro cerdas y cepille la lengua con 
+una movimiento hacia adelante y hacia atrás. 
+Limpie tan atrás como le sea posible. 
+2  Enjuáguese la boca y repita el procedimiento 
+dos veces más.
+Según el cabezal de cepillo que coloque, el modo 
+se seleccionará automáticamente. Si desea ajustar 
+el modo o la intensidad manualmente, puede 
+hacerlo usando el botón de intensidad/modo. 
+Presione el botón de intensidad/modo antes 
+de cepillar para cambiar el modo y presiónelo 
+al cepillar para ajustar el nivel de intensidad. 
+Su selección será recordada la próxima vez 
+que coloque el mismo cabezal de cepillo. Si 
+desea regresar a la configuración recomendada 
+inicialmente, cámbiela manualmente a la 
+configuración descrita arriba.
+Nota: cuando Philips Sonicare se use en estudios 
+clínicos, se debe usar a alta intensidad en los 
+modos Clean, White+, Gum Health o en el modo 
+DeepClean+ sin conexión para lograr eficacia en la 
+remoción de placa, remoción de manchas, salud 
+de las encías o superioridad (respectivamente).
+Configuración de la intensidad
+Su cepillo dental eléctrico le brinda la opción de 
+elegir entre 3 diferentes niveles de intensidad: 
+bajo, medio y alto. Según el cabezal de cepillo 
+que ponga, la intensidad se seleccionará 
+automáticamente. Si desea cambiar a una 
+intensidad diferente, puede hacerlo presionando 
+el botón de modo/intensidad al cepillarse. Para 
+obtener óptimos resultados se recomienda usar 
+la intensidad seleccionada automáticamente. La 
+intensidad no se puede cambiar cuando el mango 
+está apagado o en pausa.
+20 sec.
+38 Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   38 13/02/17   16:38
+Uso del Philips Sonicare
+Instrucciones de cepillado
+1  Ponga el cabezal de cepillo deseado (see 
+'Cabezales de cepillo'). Alinee el cabezal del 
+cepillo de manera que las cerdas apunten en la 
+misma dirección que la parte frontal del mango.
+2  Moje las cerdas.
+3  Aplique una pequeña cantidad de dentrífico en 
+las cerdas.
+4  Coloque las cerdas del cepillo sobre los dientes 
+formando un ligero ángulo (45°), presionando 
+firmemente para que las cerdas lleguen a la 
+línea de la encía o ligeramente debajo de esta. 
+Un cambio en la vibración (y un ligero cambio 
+en el sonido) y la activación del anillo de luz 
+le alerta cuando está ejerciendo demasiada 
+presión durante el cepillado.
+Nota: Mantenga el centro del cepillo en 
+contacto con los dientes en todo momento.
+5  Presione el botón de encendido/apagado para 
+encender el Philips Sonicare.
+39Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   39 13/02/17   16:38
+6  Ejerza una ligera presión para maximizar la 
+eficacia de Philips Sonicare. Cepille sus dientes 
+con un pequeño movimiento hacia atrás y hacia 
+delante de manera que las cerdas pasen entre 
+los dientes. Continúe con este movimiento 
+durante el ciclo de cepillado.
+Nota: Las cerdas deben ensancharse un poco. 
+No restriegue.
+7  Para limpiar la superficie interior de los dientes 
+anteriores, incline el mango del cepillo a una 
+posición semivertical y cepille varias veces cada 
+diente.
+Puede utilizar el Philips Sonicare de forma segura 
+en:
+ - Aparatos correctores (los cabezales se gastan 
+antes cuando se utilizan sobre aparatos 
+correctores).
+ - Restauraciones dentales (empastes, coronas, 
+carillas).
+Características y accesorios
+a  Aplicación
+b  Sensor de presión
+c  Recordatorio de reemplazo del cabezal de 
+cepillo
+d  BrushPacer
+e  Inicio Fácil
+f  Estuche de viaje (tipos específicos solamente)
+g  Sostén de cabezal de cepillo (tipos específicos 
+solamente)
+40 Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   40 13/02/17   16:38
+a. Aplicación
+El Philips Sonicare tiene activado Bluetooth y le 
+permite lograr un cuidado bucal superior con la 
+aplicación Philips Sonicare. 
+Usar la aplicación Philips Sonicare le ayudará a 
+mejorar sus hábitos de cuidado de la salud bucal. 
+Le brinda comentarios en tiempo real al cepillarse, 
+le informa si le faltó cepillar algún punto, le da 
+seguimiento a su comportamiento de cepillado y 
+le proporciona consejos y trucos útiles para una 
+boca más saludable que nunca. Para obtener 
+todas las ventajas de su Philips Sonicare, le 
+aconsejamos seguir los siguientes pasos:
+Conectar su cepillo dental
+1  Descargue la aplicación de Philips Sonicare 
+desde la App Store o desde Google Play.
+2  Compruebe que su dispositivo móvil tenga 
+activada la función Bluetooth antes de abrir 
+la aplicación. Consulte la configuración de su 
+dispositivo móvil para activar Bluetooth.
+3  Abra la aplicación de Sonicare.
+4  Para conectar el cepillo dental a la aplicación, 
+retire el mango del cargador y presione el 
+botón modo/intensidad.
+5  Siga las instrucciones de la aplicación de 
+Sonicare mostradas en su dispositivo móvil. 
+La aplicación se conecta automáticamente al 
+cepillo dental. Si el cepillo dental no se conecta, 
+siga los pasos de resolución de problemas de la 
+aplicación.
+Nota: Para una captura de datos óptima, 
+mantenga su dispositivo móvil cerca durante el 
+cepillado.
+41Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   41 13/02/17   16:38
+b. Sensor de presión
+El Philips Sonicare está equipado con un sensor 
+avanzado que mide la presión que aplica al 
+cepillarse. Si aplica demasiada presión, el cepillo 
+dental proporcionará comentarios inmediatamente 
+para indicarle que necesita reducir la presión. Los 
+comentarios se darán de dos diferentes maneras:
+1  Puede experimentar un cambio en la vibración 
+y por lo tanto en la sensación del cepillado.
+2  La luz de advertencia de presión del anillo de 
+luz se encenderá en color morado.
+Si recibe una advertencia, reduzca la presión. 
+La luz se apagará y la sensación de cepillado se 
+ajustará a la sensación original.
+Activar o desactivar el sensor de presión 
+1  Coloque el mango con un cabezal de cepillo en 
+el cargador conectado.
+2  El sensor de presión se activa manteniendo 
+presionado el botón modo/intensidad y 
+presionando el botón de encendido dos veces 
+mientras está en el cargador. El mango hará bip 
+dos veces para confirmar que está activado.
+3  El sensor de presión se inactiva manteniendo 
+presionado el botón modo/intensidad y 
+presionando el botón de encendido dos veces 
+mientras está sobre un cargador. El mango 
+hará bip una vez para confirmar que está 
+desactivado.
+42 Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   42 13/02/17   16:38
+c. Recordatorio de reemplazo del cabezal de cepillo
+El Philips Sonicare está equipado con una 
+característica inteligente que da seguimiento al 
+uso del cabezal de cepillo. Según la presión que 
+aplique y la cantidad de tiempo que lo use, la luz 
+del recordatorio de cabezal de cepillo le recuerda 
+cambiarlo. Es importante cambiar el cabezal de 
+cepillo a tiempo para garantizar la mejor limpieza y 
+cuidado de sus dientes. 
+Cuando la luz de reemplazo de cabezal de cepillo 
+color ámbar comienza a parpadear debería 
+reemplazar el cabezal.
+Activar o desactivar el recordatorio de 
+reemplazo del cabezal de cepillo
+1  Coloque el mango en el cargador enchufado.
+2  El recordatorio de reemplazo de cabezal de 
+cepillo se activa manteniendo presionado el 
+botón modo/intensidad y presionando el botón 
+de encendido tres veces mientras se encuentra 
+en el cargador. El mango hará bip dos veces 
+para confirmar que está activado.
+3  El recordatorio de reemplazo de cabezal de 
+cepillo se desactiva manteniendo presionado el 
+botón modo/intensidad y presionando el botón 
+de encendido tres veces mientras se encuentra 
+en el cargador. El mango hará bip una vez para 
+confirmar que está desactivado.
+d. BrushPacer
+El BrushPacer es un temporizador de intervalos 
+que tiene un bip corto y pausa para recordarle que 
+cepille diferentes secciones de su boca Según el 
+modo de cepillado que haya seleccionado (see 
+'Modos de cepillado'), El BrushPacer hace bip a 
+diferentes intervalos durante el ciclo de cepillado.
+2
+3 1
+64
+5
+43Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   43 13/02/17   16:38
+e. Inicio Fácil
+La función Easy-start aumenta paulatinamente la 
+potencia a lo largo de los primeros 14 cepillados 
+para ayudarle a acostumbrarse al cepillado 
+con Philips Sonicare. La característica de Inicio 
+Fácil funciona en todos los modos menos en 
+TongueCare+. Este modelo de Sonicare de 
+Philips viene con la característica de Inicio Fácil 
+desactivada.
+Activar o desactivar la función Inicio Fácil
+1  Coloque el mango en el cargador enchufado.
+2  Inicio fácil se activa manteniendo presionado 
+el botón modo/intensidad y presionando el 
+botón de encendido una vez mientras está en 
+el cargador. El mango hará bip dos veces para 
+confirmar que está activado.
+3  EL inicio rápido está desactivado por 
+modo/intensidad y presionando el botón 
+de encendido una vez mientras está en el 
+cargador. El mango hará bip una vez para 
+confirmar que está desactivado.
+Nota: No se recomienda utilizar la función Easy-
+start más allá del periodo inicial de regulación, ya 
+que reduce la eficacia de Philips Sonicare en la 
+eliminación de la placa.
+Nota: Cada una de las primeras 14 cepilladas debe 
+ser de por lo menos 1 minuto de duración para 
+recorrer correctamente el ciclo de Inicio Fácil.
+Nota: Para lograr una eficacia clínica, se necesita 
+desconectar Inicio Fácil.
+44 Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   44 13/02/17   16:38
+f. Estuche de viaje (tipos específicos solamente)
+El Philips Sonicare viene con un estuche de viaje 
+para que viajar con el cepillo dental sea más 
+cómodo. Está diseñado para acomodar el mango 
+del cepillo dental eléctrico y dos cabezales de 
+cepillo. Algunos modelos vienen con un estuche 
+de viaje de carga USB que se conecta a la laptop 
+con un USB; esto permite cargar el Philips Sonicare 
+cuando viaje. Para obtener información sobre 
+cómo cargar el Philips Sonicare con el estuche de 
+viaje, consulte ‚Estado y carga de la batería‘.
+Estado y carga de la batería
+Uso del vaso cargador (tipos específicos solamente)
+1  Conecte la base del cargador en el enchufe de 
+pared.
+2  Posicione el vaso cargador sobre la base de 
+carga y coloque el mango en el vaso.
+El indicador de carga destella luz blanca hasta que 
+el cepillo está totalmente cargado.
+Carga con el estuche de viaje (tipos específicos 
+solamente)
+1  Coloque el mango en el estuche cargador de 
+viaje.
+2  Conecte el estuche de viaje de carga a una 
+computadora con denominación UL 60950-1 
+y IEC 60950-1, laptop, cubo USB, receptáculo 
+USB o adaptador de pared. El cable USB está 
+unido al estuche de viaje y almacenado en el 
+compartimento para guardar el cable.
+3  El adaptador de pared debe tener la salida 
+marcada Clase 2 o los requisitos de la fuente de 
+electricidad limitada (LPS) y compatible con las 
+calificaciones eléctricas escritas en el estuche 
+de viaje.
+45Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   45 13/02/17   16:38
+4  La indicación de la batería destella luz blanca 
+hasta que el cepillo está totalmente cargado.
+Importante: El adaptador de pared debe ser 
+una fuente de voltaje segura compatible con las 
+calificaciones eléctricas escritas en el dispositivo.
+Importante: Solo los modelos de cepillo dental 
+HX993W, HX993B, HX993P, HX993S, HX993L 
+se pueden cargar en el estuche de viaje. Otros 
+productos y baterías no son compatibles con el 
+estuche de viaje.
+Nota: El Philips Sonicare se tarda al menos 24 
+horas para cargar completamente. No tiene que 
+cargar el mango por completo antes del primer 
+uso, ya que el mango viene precargado. Sin 
+embargo, se recomienda cargarlo totalmente 
+después del primer uso.
+Nota: Este cargador está diseñado para cargar 
+correctamente solo un mango a la vez. Este 
+cargador no es compatible con otros modelos de 
+Philips Sonicare.
+Nota: No lleve objetos metálicos en el estuche 
+de viaje, ya que la carga puede verse afectada y 
+puede causar que el cargador se sobre caliente.
+Limpieza
+Nota: No limpie la cabeza del cepillo, el mango o el 
+estuche de viaje en la lavadora de trastes.
+Mango del cepillo dental
+1  Quite el cabezal del cepillo y enjuague la zona 
+del eje metálico con agua caliente. Asegúrese 
+de eliminar todos los restos de pasta de 
+dientes.
+Nota: No empuje la junta de goma del eje 
+metálico con ningún objeto afilado, ya que 
+podría dañarla.
+46 Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   46 13/02/17   16:38
+2  Limpie la superficie del mango con un paño 
+húmedo.
+Nota: No use alc ohol isopropílico, vinagre o 
+blanqueador para limpiar el mango ya que esto 
+puede causar decoloración.
+Cabezal de cepillado
+1  Enjuague siempre el cabezal y las cerdas 
+después de cada uso.
+2  Extraiga el cabezal del cepillo del mango y 
+enjuague la conexión del cabezal al menos una 
+vez a la semana con agua tibia.
+Cargador y estuche de viaje
+1  Desenchufe el cargador y el estuche de viaje 
+antes de limpiarlo.
+2  Use un paño húmedo para limpiar la superficie 
+del cargador y del estuche de viaje.
+Vaso
+1  Limpie el vaso con agua y un poco de jabón 
+suave.
+2  Seque el vaso con una toalla suave.
+El vaso se puede lavar en el lavavajillas.
+Almacenamiento
+Si no va a utilizar el Sonicare de Philips por un 
+periodo largo de tiempo, desconecte el cargador 
+de la toma de corriente, límpielo y guárdelo en un 
+lugar seco y fresco lejos de la luz directa del sol.
+47Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   47 13/02/17   16:38
+Localizar el número de modelo
+Vea la parte inferior del mango del cepillo 
+dental Philips Sonicare para el número de 
+modelo (HX992W, HX992B, HX992P, HX992S, 
+HX992L,HX993W, HX993B, HX993P, HX993S, 
+HX993L)
+Disposición
+Este aparato posee una batería recargable que 
+debe desecharse apropiadamente. Contacte a sus 
+oficinas locales o externos para mayor información 
+acerca del manejo final de la bateria. También 
+puede llamar al número 1-800-8-BATTERY o 
+visitar www.rbrc.com para saber dónde puede 
+depositarlas.
+Para obtener ayuda visite nuestro sitio web  
+www.philips.com/support o llame gratuitamente 
+al número 1-800-243-3050.
+Remover la batería recargable
+Advertencia: No quite la batería recargable hasta 
+que deseche el aparato. Asegúrese de que la 
+batería está completamente descargada cuando 
+la quite.
+Para extraer la batería recargable se necesita una 
+toalla o paño, un martillo y un destornillador plano 
+normal. Tenga en cuenta las medidas de seguridad 
+básicas cuando siga los procedimientos descritos 
+a continuación. Asegúrese de proteger sus ojos, 
+manos, dedos y la superficie en la que trabaja.
+1  Para agotar la carga de la batería recargable, 
+quite el mango del cargador, encienda su 
+Philips Sonicare y déjelo funcionar hasta que 
+se pare. Repita esto hasta que ya no pueda 
+encender el Philips Sonicare.
+48 Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   48 13/02/17   16:38
+2  Extraiga y deseche el cabezal del cepillo.  
+Cubra el mango completo con una toalla o 
+paño.
+3  Sostenga la parte superior del mango con 
+una mano y golpee la carcasa del mango 0,5 
+pulgadas por encima del extremo inferior. 
+Usando un martillo, golpee con firmeza sobre 
+los 4 lados para retirar la tapa.
+Nota: Es posible que necesite golpear varias 
+veces para romper las piezas de encaje a 
+presión internas.
+4  Retire la tapa del mango del cepillo. Si no 
+puede retirar la tapa de la carcasa con facilidad, 
+repita el paso 3 hasta que la tapa quede 
+liberada.
+5  Con el mango sostenido al revés, presione 
+el eje sobre una superficie dura. Si los 
+componentes internos no se desprenden 
+fácilmente de la carcasa, repita el paso 3 
+hasta que los componentes internos queden 
+liberados.
+6  Quite la cubierta de goma de la batería.
+1
+2
+49Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   49 13/02/17   16:38
+7  Meta a presión el destornillador entre la batería 
+y el armazón negro en la parte inferior de los 
+componentes internos. Entonces haga palanca 
+con el destornillador, separándolo de la batería, 
+para romper la parte inferior del armazón negro.
+8  Inserte el destornillador entre el fondo de la 
+batería y el armazón negro para romper la 
+pestaña metálica que une la batería con el 
+circuito impreso verde. Esto liberará el extremo 
+inferior de la batería del armazón.
+9  Sostenga la batería y jale para separarla de los 
+componentes internos y romper la segunda 
+pestaña metálica de la batería.
+Precaución: Tenga cuidado con los bordes 
+afilados de las pestañas de la batería para 
+evitar lesionarse los dedos.
+10  Cubra los contactos de la batería con cinta para 
+evitar cortos circuitos provocados por cargas 
+residuales de la batería. La batería recargable 
+se puede reciclar y el resto de materiales se 
+pueden desechar de manera adecuada.
+50 Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   50 13/02/17   16:38
+Declaración de cumplimiento de la FCC
+Este dispositivo cumple con el Artículo 15 de las 
+Normas de la FCC. El funcionamiento está sujeto a 
+las dos siguientes condiciones:
+1  Este dispositivo no puede causar interferencia 
+perjudicial, y 
+2  Este dispositivo debe aceptar cualquier 
+interferencia que reciba, inclusive aquella que 
+pueda causar un funcionamiento no deseado.
+ 
+Los cambios o modificaciones no aprobadas 
+expresamente por Philips Oral Healthcare podrían 
+anular la autoridad del usuario de operar el 
+equipo.
+Declaración de cumplimiento de Industry 
+Canada
+Este dispositivo cumple con los estándares RSS de 
+exensión de licencia de Industry Canada.  
+El funcionamiento está sujeto a las dos 
+condiciones siguientes: 
+1  Este dispositivo no puede causar interferencia y 
+2  Este dispositivo debe aceptar cualquier 
+interferencia, inclusive aquella que pueda 
+causar un funcionamiento no deseado del 
+dispositivo.
+51Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   51 13/02/17   16:38
+Garantía y asistencia
+La garantía de Philips cubre los productos por 
+un periodo de 2 años después de la fecha de 
+compra. Philips se hará cargo de la reparación o 
+sustitución de los defectos debidos a materiales 
+defectuosos o de fabricación, siempre y cuando 
+se presente una prueba convincente de compra 
+en el plazo estipulado. Philips recomienda el uso 
+de cabezales de Sonicare originales para obtener 
+un rendimiento óptimo. El uso de otros cabezales 
+podría dañar su cepillo de dientes Sonicare y 
+limitar la protección de la garantía. Póngase en 
+contacto con nuestro Servicio de Atención al 
+Cliente al 1-800-682-7664 (en Norteamérica). 
+Fuera de Norteamérica, póngase en contacto con 
+el Centro de Atención al Cliente de Philips en su 
+país. Información en Internet: www.sonicare.com 
+(Norteamérica) o www.philips.com/support (fuera 
+de Norteamérica).
+EXCLUSIONES DE LA GARANTÍA
+No están cubiertos por la garantía:
+ - Cabezales del cepillo.
+ - Deterioros causados por piezas de repuesto no 
+autorizadas o cabezales no autorizados.
+ - Deterioros causados por uso inapropiado, 
+abusos, negligencias, alteraciones o 
+reparaciones no autorizadas.
+ - Desgaste normal, incluyendo arañazos, 
+desportilladuras, abrasiones, decoloraciones o 
+perdida gradual del color.
+52 Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   52 13/02/17   16:38
+GARANTÍAS IMPLÍCITAS
+TODA GARANTÍA IMPLÍCITA, INCLUIDAS LAS 
+GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN 
+Y APTITUD PARA UN FIN PARTICULAR, ESTARÁN 
+LIMITADAS A LA DURACIÓN DE LAS GARANTÍAS 
+EXPRESAS ESTABLECIDAS ANTERIORMENTE. EN 
+ALGUNOS ESTADOS NO SE APLICAN LÍMITES EN 
+LA DURACIÓN DE LA GARANTÍA.
+LIMITACIÓN DE RECURSOS
+EN NINGÚN CASO PHILIPS O CUALQUIERA DE 
+SUS EMPRESAS AFILIADAS O SUBSIDIARIAS 
+SERÁ RESPONSABLE DE DAÑOS ESPECIALES, 
+INCIDENTALES O CONSECUENCIALES DEL 
+INCUMPLIMIENTO DE LA GARANTÍA O DEL 
+CONTRATO, NEGLIGENCIA, AGRAVIO O 
+CUALQUIER OTRA BASE LEGAL. ESTOS DAÑOS 
+INCLUYEN, SIN LÍMITE, PÉRDIDA DE AHORROS O 
+INGRESOS; LUCRO CESANTE; PÉRDIDA DE USO; 
+RECLAMACIONES DE TERCEROS, INCLUYENDO, 
+SIN LÍMITE, DENTISTAS E HIGIENISTAS 
+DENTALES; Y COSTE DE EQUIPO O SERVICIOS 
+SUSTITUTIVOS. EN ALGUNOS ESTADOS NO SE 
+ADMITE LA EXCLUSIÓN O LIMITACIÓN DE DAÑOS 
+INCIDENTALES O CONSECUENCIALES.
+53Español Mexicano
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   53 13/02/17   16:38
+MISES EN 
+GARDE 
+IMPORTANTES
+Avertissement : LISEZ TOUTES LES 
+INSTRUCTIONS AVANT D‘UTILISER 
+L‘APPAREIL
+Lorsque vous utilisez des appareils électriques, 
+surtout en présence d‘enfants, suivez toujours les 
+mesures de sécurité fondamentales, notamment :
+DANGER
+Pour éviter tout risque d‘électrocution :
+1  Évitez en tout temps de placer et de ranger le 
+chargeur trop près de l‘eau.
+2  Ne touchez pas le produit s’il est tombé dans 
+l’eau. Débranchez immédiatement l’appareil de 
+la prise de courant.
+3  N‘utilisez jamais un chargeur dont le cordon ou 
+la prise est endommagé.
+AVERTISSEMENTS
+Pour diminuer tout risque de brûlure, 
+d‘électrocution, d‘incendie ou de blessure 
+corporelle :
+1  N‘utilisez pas d‘autres accessoires que ceux 
+recommandés par le fabricant.
+2  Ne branchez pas le produit sur une prise de 
+courant dont la tension est autre que celle 
+indiquée sous le produit. Ce produit est conçu 
+pour fonctionner à des tensions comprises 
+entre 100 et 240 volts. Les convertisseurs de 
+54 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   54 13/02/17   16:38
+tension ne garantissent pas la compatibilité de 
+tension.
+3  Ne branchez jamais de force la fiche sur une 
+prise de courant. Si la fiche ne s’insère pas 
+facilement dans la prise, n’utilisez pas l’appareil.
+4  Cessez d’utiliser le produit si vous constatez 
+que l’un de ses composants (tête de brosse, 
+manche, chargeur, etc.) est endommagé de 
+quelque façon que ce soit.
+5  Il est impossible de remplacer le cordon 
+d‘alimentation. Si le cordon d‘alimentation est 
+endommagé, vous devez mettre le chargeur au 
+rebut.
+6  Tenez le cordon d‘alimentation à l‘écart des 
+surfaces chauffantes.
+7  N’utilisez pas le chargeur à l’extérieur ou près 
+de surfaces chauffantes.
+8  Ce produit ne contient aucune pièce réparable 
+par l‘utilisateur. Reportez-vous à « Garantie 
+et assistance » si le produit ne fonctionne pas 
+correctement ou s‘il doit être réparé.
+9  Ce produit doit être utilisé uniquement aux 
+fins décrites dans le présent document ou 
+conformément aux recommandations de votre 
+dentiste.
+10  Ce produit ne doit pas être utilisé par des 
+personnes (incluant des enfants) ayant des 
+capacités physiques, sensorielles ou mentales 
+réduites ou n‘ayant pas l‘expérience et les 
+connaissances nécessaires, à moins qu‘elles 
+ne soient sous la surveillance d‘une personne 
+responsable de leur sécurité ou qu‘elles 
+aient reçu de cette personne des directives 
+concernant l‘utilisation du produit.
+55Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   55 13/02/17   16:38
+11  Les enfants doivent être surveillés pour 
+s‘assurer qu‘ils ne s‘amusent pas avec le 
+produit.
+12  La Philips Sonicare est un appareil prévu pour 
+des soins personnels et ne doit pas être utilisée 
+par plusieurs patients dans les cabinets ou 
+établissements dentaires.
+13  Lorsque vous souhaitez recharger le manche de 
+la brosse dans son étui de transport, servez-
+vous d’un concentrateur USB, d’une prise USB 
+double ou d’un ordinateur homologué UL.
+14  Si vous rechargez le manche de la brosse 
+à dents au moyen d’un ordinateur, il est 
+préférable que ce dernier soit à l’écart des 
+sources d’eau (p. ex., évier ou bain) afin d’éviter 
+les risques d’électrocution.
+15  Afin de recharger efficacement votre brosse 
+à dents Philips Sonicare, ne placez pas 
+votre chargeur sur une surface métallique 
+magnétique.
+16  Il n’est pas prévu que du personnel qualifié 
+puisse réparer le produit en cas de panne ou de 
+composants défectueux (l’unité peut être mise 
+au rebut).
+17  Pour effectuer un branchement sur une prise en 
+dehors des États-Unis, utilisez un chargeur dont 
+la configuration convient à la prise de courant.
+18  Il ne doit être utilisé que pour l’usage décrit 
+dans ce manuel. N’utilisez pas d’accessoires qui 
+ne sont pas recommandés par le fabricant.
+56 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   56 13/02/17   16:38
+MISES EN GARDE D‘ORDRE MÉDICAL
+1  Consultez votre dentiste avant d‘utiliser ce 
+produit si vous avez subi une chirurgie buccale 
+ou gingivale au cours des 2 derniers mois.
+2  Consultez votre dentiste si vos gencives 
+saignent anormalement après vous être brossé 
+les dents avec ce produit ou si le saignement 
+persiste après 1 semaine d‘utilisation.
+3  Si vous ressentez de la douleur en utilisant ce 
+produit, consultez votre dentiste.
+4  Ce produit est conforme aux normes de sécurité 
+relatives aux appareils électromagnétiques. 
+Si vous avez un stimulateur cardiaque ou 
+tout autre dispositif implanté, consultez votre 
+médecin ou le fabricant du dispositif implanté 
+avant d‘utiliser cet appareil.
+5  Pour toute autre question d‘ordre médical, 
+consultez votre médecin.
+Champs électromagnétiques (CEM)
+Cet appareil Philips est conforme à toutes les 
+normes et réglementations relatives à l’exposition 
+aux champs électromagnétiques.
+CONSERVEZ 
+CES 
+CONSIGNES
+57Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   57 13/02/17   16:38
+Directive concernant l’équipement 
+radioélectrique
+ - L’équipement radioélectrique de ce produit 
+fonctionne entre 2402 et 2480 MHz
+ - La puissance radioélectrique maximale 
+transmise par l’équipement radioélectrique est 
+de +3 dBm
+Introduction
+Félicitations pour votre achat et bienvenue dans 
+l’univers Philips! Pour profiter pleinement des 
+avantages de l’assistance Philips, enregistrez votre 
+produit à l’adresse www.philips.com/welcome ou 
+par l’intermédiaire de l’application Philips Sonicare.
+Votre brosse à dents Philips Sonicare (Fig. 1) 
+1  Capuchon de protection hygiénique
+2  Les têtes de brosse;
+3  Manche
+4  Bouton marche/arrêt
+5  Intensité lumineuse
+6  Bouton Mode/Intensité
+7  Voyant de mode
+8  Voyant de rappel de remplacement de tête de 
+brosse
+9  Voyant de charge
+10  Anneau lumineux
+11  Base de recharge
+12  Étui de voyage
+13  Compartiment de rangement du cordon
+14  Cordon USB (intégré)
+15  Verre chargeur
+Remarque : Le contenu de la boîte peut varier 
+selon le modèle acheté.
+58 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   58 13/02/17   16:38
+Les têtes de brosse;
+Votre brosse à dents Philips Sonicare est livrée 
+avec une gamme de têtes de brosse qui sont 
+conçues pour offrir des résultats supérieurs pour 
+vos besoins de soins bucco-dentaires. 
+Le nombre et le type de têtes de brosse peuvent 
+changer en fonction du type de brosse à dents 
+que vous avez acheté.
+1  Tête de brosse Premium Plaque Control
+2  Tête de brosse Premium Gum Care
+3  Tête de brosse Premium White
+4  Tête de brosse Tongue Care+ (certains modèles 
+seulement)
+Reconnaissance de tête de brosse intelligente
+Les têtes de brosse Premium Plaque Control, 
+Premium Gum Care, Premium White et Tongue 
+Care+ sont dotées d’une technologie intelligente 
+de reconnaissance de la tête de brosse.
+Une micro-puce à l’intérieur de la tête de brosse 
+communique avec le manche de la brosse à 
+dents. Ainsi, lorsque vous attachez une tête de 
+brosse, le manche la reconnaît automatiquement 
+et sélectionne le mode et le niveau d’intensité 
+recommandés afin d’optimiser la qualité du 
+brossage.
+Grâce à cette fonctionnalité, la brosse à dents 
+suit également votre utilisation et vous propose 
+un rappel personnalisé lorsque la tête de la 
+brosse doit être remplacée afin de vous fournir les 
+meilleurs résultats de soins bucco-dentaires.
+59Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   59 13/02/17   16:38
+Modes de brossage
+Votre brosse à dents électrique est dotée 
+de 5 modes différents afin de répondre à 
+tous vos besoins de soins bucco-dentaires 
+(certains modèles sont livrés avec 4 modes de 
+brossage uniquement). Les modes suivants sont 
+disponibles :
+Mode Propreté
+Le mode Propreté est d’une durée de 2 minutes. 
+Préférablement utilisé avec la tête de brosse 
+Premium Plaque Control et au niveau d’intensité 3, 
+il vous procure un nettoyage complet et 
+approfondi. Pour obtenir des résultats optimaux, 
+suivez les instructions ci-dessous.
+1  Commencez par brosser les dents de la 
+mâchoire supérieure à droite (segment 1) 
+pendant 20 secondes, sur la surface externe et 
+la surface interne, puis les dents de la mâchoire 
+supérieure du devant (segment 2). Brossez 
+de la même manière les segments 3 à 6 afin 
+d’assurer un brossage uniforme des 6 segments 
+de la bouche. Vous entendrez un bip toutes 
+les 20 secondes, ce qui vous indique qu’il est 
+temps de passer au segment suivant.
+Mode Blancheur+
+Le mode Blancheur+ est d’une durée de 2 minutes 
+40 secondes et est préférablement utilisé avec 
+la tête de brosse Premium White et au niveau 
+d’intensité 3. Pour obtenir des résultats optimaux, 
+suivez les instructions ci-dessous. 
+2
+13
+64
+5
+60 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   60 13/02/17   16:38
+1  Commencez par brosser les dents de la 
+mâchoire supérieure à droite (segment 1) 
+pendant 20 secondes, puis les dents de la 
+mâchoire supérieure du devant (segment 2). 
+Brossez de la même manière les segments 3 
+à 6 afin d’assurer un brossage uniforme des 
+6 parties de la bouche.
+2  Après le brossage des 6 segments, la brosse 
+à dents passe automatiquement en mode 
+polissage.
+3  Pour polir vos dents, brossez la surface externe 
+des dents de la mâchoire supérieure pendant 
+20 secondes (segment 2), puis brossez la 
+surface externe des dents de la mâchoire 
+inférieure pendant 20 secondes (segment 5). 
+Après les deux minutes de brossage, le 
+mouvement de la brosse durant le mode 
+polissage laissera une sensation différente. Le 
+son émis sera également différent.
+Mode Santé des gencives
+Le mode Santé des gencives est d’une durée de 
+3 minutes 20 secondes et est préférablement 
+utilisé avec la tête de brosse Premium Gum Care et 
+au niveau d’intensité 3. Pour obtenir des résultats 
+optimaux, suivez les instructions ci-dessous :
+1  Commencez par brosser les dents de la 
+mâchoire supérieure à droite (segment 1) 
+pendant 20 secondes, sur la surface externe et 
+la surface interne, puis les dents de la mâchoire 
+supérieure du devant (segment 2). Brossez de la 
+même manière les sections 3 à 6 afin d’assurer 
+un brossage uniforme des 6 segments de la 
+bouche.
+2
+13
+64
+5
+2
+5
+2
+13
+64
+5
+61Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   61 13/02/17   16:38
+2  Ensuite, pour fournir à vos gencives des soins 
+optimaux, brossez la surface externe et la 
+surface interne des dents postérieures de la 
+mâchoire supérieure pendant 20 secondes 
+(segment 1), puis brossez la surface externe 
+et la surface interne des dents de la mâchoire 
+supérieure du côté gauche pendant 
+20 secondes (segment 3).
+Continuez à brosser la surface externe et 
+la surface interne des dents postérieures 
+de la mâchoire inférieure à droite pendant 
+20 secondes (segment 4), puis brossez la 
+surface externe et la surface interne des dents 
+postérieures de la mâchoire inférieure à gauche 
+(segment 6) pendant encore 20 secondes. 
+Après les deux premières minutes du mode, le 
+mouvement de brossage laissera une sensation 
+différente. Le son émis sera également différent.
+Mode Nettoyage en profondeur+
+Le mode Nettoyage en profondeur+ diffère selon 
+que le manche est connecté ou non à l’application. 
+En mode connecté, le mode Nettoyage en 
+profondeur+ fonctionne pendant deux minutes et 
+fournit des informations à la fonction BrushPacer 
+toutes les 20 secondes. En mode non connecté, 
+le mode Nettoyage en profondeur+ fonctionne 
+pendant trois minutes et fournit des informations 
+à la fonction BrushPacer toutes les 30 secondes. 
+Pour obtenir des résultats optimaux en mode non 
+connecté, suivez les instructions ci-dessous :
+13
+64
+62 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   62 13/02/17   16:38
+ - Commencez par brosser les dents de la 
+mâchoire supérieure à droite (segment 1) 
+pendant 30 secondes, sur la surface externe et 
+la surface interne, puis les dents de la mâchoire 
+supérieure du devant (segment 2). Brossez 
+de la même manière les segments 3 à 6 afin 
+d’assurer un brossage uniforme des 6 segments 
+de la bouche.
+Mode Tongue Care (certains types 
+seulement)
+Le mode Tongue Care est d’une durée de 
+20 secondes et est préférablement utilisé avec 
+la tête de brosse Tongue Care+ et au niveau 
+d’intensité 1. Pour obtenir des résultats optimaux, 
+suivez les instructions ci-dessous :
+1  Mouillez les micro-soies et brossez-vous la 
+langue dans un mouvement de va-et-vient. 
+Faites un nettoyage en profondeur d’une 
+manière qui ne vous cause pas d’inconfort. 
+2  Rincez-vous la bouche et répétez deux fois la 
+procédure.
+En fonction de la tête de brosse que vous fixerez, 
+la sélection du mode se fera automatiquement. 
+Vous pouvez utiliser le bouton Mode/Intensité 
+pour modifier manuellement le mode ou l’intensité. 
+Appuyez sur le bouton Mode/Intensité avant le 
+brossage pour modifier le mode, et appuyez sur ce 
+bouton pendant le brossage pour régler le niveau 
+d’intensité. Le manche sélectionnera le même 
+mode et la même intensité la prochaine fois que 
+vous fixerez la même tête de brosse. Vous pouvez 
+revenir au réglage initial recommandé pour votre 
+tête de brosse. Pour cela, procédez manuellement 
+au réglage décrit ci-dessus.
+2
+13
+64
+5
+20 sec.
+63Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   63 13/02/17   16:38
+Remarque : Lorsque la brosse à dents Philips 
+Sonicare est utilisée dans le cadre d’études 
+cliniques, afin qu’elle atteigne l’efficacité voulue, 
+elle doit être utilisée à haut niveau d’intensité et en 
+mode Propreté (pour l’élimination des taches), en 
+mode Blancheur+ (pour l’élimination de la plaque), 
+en mode Santé des gencives (pour les soins des 
+gencives) ou en mode Nettoyage en profondeur+ 
+(pour un brossage approfondi).
+Réglages d’intensité
+Votre brosse à dents électrique vous donne la 
+possibilité de choisir parmi 3 niveaux d’intensité : 
+Faible, moyen et intense. En fonction de la tête de 
+brosse que vous fixerez, la sélection de l’intensité 
+se fera automatiquement. Si vous souhaitez passer 
+à une intensité différente, vous pouvez le faire en 
+appuyant sur le bouton Mode/Intensité pendant 
+le brossage. Pour obtenir des résultats optimaux, il 
+est recommandé d’utiliser l’intensité sélectionnée 
+automatiquement. L’intensité ne peut pas être 
+modifiée lorsque le manche est mis hors tension 
+ou en pause.
+Utilisation de la brosse à dents 
+Philips Sonicare
+Directives de brossage
+1  Fixez la tête (voir 'Les têtes de brosse;') de 
+brosse souhaitée. Alignez la tête de brosse afin 
+que les soies soient dans le même axe que 
+l'avant du manche.
+64 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   64 13/02/17   16:38
+2  Humidifiez les soies.
+3  Appliquez une petite quantité de dentifrice sur 
+ces dernières.
+4  Placez les soies de la tête de brosse sur les 
+dents, légèrement de biais (45 degrés), en 
+appuyant fermement pour qu'elles touchent 
+les gencives ou se placent légèrement sous les 
+gencives. Une modification de la vibration, une 
+modification légère du son et l’allumage de 
+l’anneau lumineux vous alertent lorsque vous 
+appliquez trop de pression en vous brossant les 
+dents.
+Remarque : Maintenez en permanence le 
+centre de la brosse en contact avec les dents.
+5  Appuyez sur le bouton marche/arrêt pour 
+mettre l’appareil Philips Sonicare en marche.
+65Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   65 13/02/17   16:38
+6  Appliquez une légère pression pour optimiser 
+l’efficacité de la brosse Philips Sonicare. 
+Brossez-vous les dents en faisant un léger 
+mouvement de va-et-vient, de sorte que les 
+soies atteignent les espaces interdentaires. 
+Continuez ce mouvement pendant tout le cycle 
+de brossage.
+Remarque : Les soies doivent s’évaser 
+légèrement. Ne frottez pas.
+7  Pour nettoyer la surface intérieure des dents 
+avant, inclinez le manche de la brosse à 
+dents en position intermédiaire et effectuez 
+plusieurs mouvements de brosse verticaux sur 
+chaque dent, en prenant soin de les faire se 
+chevaucher.
+Votre Philips Sonicare est sans danger pour :
+ - les appareils orthodontiques (les têtes de 
+brosse s'useront plus rapidement dans ce cas),
+ - les restaurations dentaires (obturations, 
+couronnes, facettes).
+Fonctionnalités et accessoires
+a  Application
+b  Capteur de pression
+c  Rappel de remplacement de tête de brosse
+d  BrushPacer
+e  Fonction Easy-Start
+f  Étui de voyage (certains modèles seulement)
+g  Support de tête de brosse (certains modèles 
+seulement)
+66 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   66 13/02/17   16:38
+a. Application
+Votre brosse à dents Philips Sonicare est 
+compatible avec Bluetooth et vous permet 
+d’obtenir des soins bucco-dentaires de qualité 
+supérieure grâce à l’application Philips Sonicare. 
+L’utilisation de Philips Sonicare vous aidera à 
+améliorer vos habitudes en matière de soins 
+de santé bucco-dentaires. Elle vous fournit des 
+informations en temps réel pendant le brossage, 
+vous informe si vous avez oublié des taches au 
+cours du brossage, suit votre comportement 
+de brossage au fil du temps et vous fournit des 
+conseils et des astuces utiles pour que votre 
+bouche soit plus saine que jamais. Pour que 
+vous puissiez profiter pleinement de votre Philips 
+Sonicare, nous vous conseillons de suivre les 
+étapes suivantes :
+Connexion de votre brosse à dents
+1  Téléchargez l’application Philips Sonicare à 
+partir de l’App Store d’Apple ou de Google Play 
+Store.
+2  Vérifiez que la fonctionnalité Bluetooth est 
+activée sur votre appareil mobile avant d’ouvrir 
+l’application. Vérifiez les paramètres de votre 
+appareil mobile pour activer le Bluetooth.
+3  Ouvrez l‘application Sonicare.
+4  Pour brancher la brosse à dents à l’application, 
+retirez le manche du chargeur et appuyez sur le 
+bouton Mode/Intensité.
+5  Suivez les instructions de l’application Sonicare 
+qui s’affichent sur votre appareil mobile. 
+L’application se connecte automatiquement 
+à la brosse à dents. Si la brosse à dents ne se 
+connecte pas, suivez les étapes de dépannage 
+fournies dans l’application.
+67Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   67 13/02/17   16:38
+Remarque : Pour garantir la capture optimale 
+des données, maintenez votre appareil mobile 
+à proximité pendant que vous vous brossez les 
+dents.
+b. Capteur de pression
+Votre brosse à dents Philips Sonicare est dotée 
+d’un capteur évolué qui mesure la pression 
+appliquée pendant le brossage. Si vous appliquez 
+une pression trop forte, la brosse à dents réagit 
+immédiatement pour indiquer que vous devez 
+diminuer la pression appliquée. La rétroaction vous 
+est fournie de deux manières :
+1  Vous sentirez un changement dans la vibration 
+et dans la sensation de brossage.
+2  Le témoin de pression de l’anneau lumineux 
+s’allume en violet.
+Si vous recevez une alerte, diminuez la pression 
+que vous appliquez. L’anneau lumineux s’éteint et 
+la sensation de brossage redevient conforme à la 
+sensation d’origine.
+Activation ou désactivation du capteur de 
+pression 
+1  Fixez une tête de brosse sur le manche et 
+placez ce dernier dans le chargeur branché.
+2  Pour activer le capteur de pression, le manche 
+étant sur le chargeur, appuyez sur le bouton 
+Mode/Intensité et appuyez deux fois sur le 
+bouton d’alimentation. Le manche émet deux 
+signaux sonores pour confirmer qu’il est activé.
+3  Pour désactiver le capteur de pression, le 
+manche étant sur le chargeur, appuyez sur 
+le bouton Mode/Intensité et appuyez deux 
+fois sur le bouton d’alimentation. Le manche 
+émet un signal sonore pour confirmer qu’il est 
+désactivé.
+68 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   68 13/02/17   16:38
+c. Rappel de remplacement de tête de brosse
+Votre brosse à dents Philips Sonicare est dotée 
+d’une fonction intelligente qui suit l’usure de la 
+tête de votre brosse. En fonction de la pression 
+que vous appliquez et de la durée de l’utilisation, 
+le témoin de rappel de remplacement de la tête de 
+brosse vous rappelle de changer la tête de votre 
+brosse. Il est important de changer la tête de votre 
+brosse dans les délais afin de garantir le meilleur 
+nettoyage et les meilleurs soins pour vos dents. 
+Lorsque le voyant orange de remplacement de la 
+tête de brosse clignote, il est temps de remplacer 
+la tête de votre brosse.
+Activation et désactivation du rappel de 
+remplacement de la tête de brosse
+1  Placez le manche sur le chargeur branché.
+2  Pour activer le rappel du remplacement de la 
+tête de brosse, le manche étant sur le chargeur, 
+appuyez sur le bouton Mode/Intensité et 
+appuyez trois fois sur le bouton d’alimentation. 
+Le manche émet deux signaux sonores pour 
+confirmer qu’il est activé.
+3  Pour désactiver le rappel du remplacement 
+de la tête de brosse, le manche étant sur 
+le chargeur, appuyez sur le bouton Mode/
+Intensité et appuyez trois fois sur le bouton 
+d’alimentation. Le manche émet un signal 
+sonore pour confirmer qu’il est désactivé.
+69Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   69 13/02/17   16:38
+d. BrushPacer
+La fonction BrushPacer est un minuteur à 
+intervalles qui émet un bref signal sonore et 
+suspend le cycle pour vous rappeler de brosser les 
+différentes parties de votre bouche. Les signaux 
+du BrushPacer sont émis à différents intervalles au 
+cours du cycle de brossage en fonction du mode 
+de brossage choisi (voir 'Modes de brossage').
+e. Fonction Easy-Start
+La fonction Easy-start augmente progressivement 
+la puissance lors des 14 premiers brossages pour 
+vous permettre de vous habituer à la Philips 
+Sonicare. La fonction Easy-Start fonctionne 
+dans tous les modes, sauf TongueCare+. La 
+fonction Easy-Start est désactivée par défaut sur 
+le modèle Philips Sonicare.
+Activation ou désactivation de la fonction 
+Easy-Start
+1  Placez le manche sur le chargeur branché.
+2  Pour activer la fonction Easy-Start, le manche 
+étant sur le chargeur, appuyez sur le bouton 
+Mode/Intensité et appuyez une fois sur le 
+bouton d’alimentation. Le manche émet deux 
+signaux sonores pour confirmer qu’il est activé.
+3  Pour désactiver la fonction Easy-Start, le 
+manche étant sur le chargeur, appuyez sur le 
+bouton Mode/Intensité et appuyez une fois sur 
+le bouton d’alimentation. Le manche émet un 
+signal sonore pour confirmer qu’il est désactivé.
+Remarque : Il est recommandé de ne pas dépasser 
+la période initiale d‘utilisation de la fonction Easy-
+start, sous peine de réduire l‘efficacité de la brosse 
+à dents Philips Sonicare dans l‘élimination de la 
+plaque dentaire.
+2
+3 1
+64
+5
+70 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   70 13/02/17   16:38
+Remarque : Chacun des 14 premiers cycles de 
+brossage doit durer au moins 1 minute pour que la 
+fonction Easy-Start se déroule correctement.
+Remarque : Pour que la brosse atteigne une 
+efficacité clinique, la fonction Easy-Start doit être 
+désactivée.
+f. Étui de voyage (certains modèles seulement)
+Votre Philips Sonicare est livré avec un étui 
+de voyage pour faciliter le transport de votre 
+brosse à dents électrique lorsque vous êtes en 
+déplacement. L’étui est conçu pour accueillir le 
+manche de la brosse à dents électrique et deux 
+têtes de brosse. Certains modèles sont livrés avec 
+un étui de recharge de voyage USB qui se branche 
+sur le port USB de votre ordinateur portable, ce qui 
+vous permet de recharger votre Philips Sonicare 
+lorsque vous êtes en déplacement. Pour obtenir 
+de plus amples renseignements sur la recharge 
+de votre Philips Sonicare avec l’étui de voyage, 
+consultez la section « État de la pile et recharge de 
+la pile ».
+État de la pile et recharge de la pile
+Recharge avec verre (certains modèles seulement)
+1  Branchez la base du chargeur sur une prise 
+murale.
+2  Placez le verre chargeur sur la base de recharge 
+et placez le manche dans le verre.
+L‘indicateur de charge clignote en blanc jusqu‘à 
+ce que votre brosse à dents soit complètement 
+chargée.
+71Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   71 13/02/17   16:38
+Recharge avec étui de voyage (certains modèles 
+seulement)
+1  Placez le manche dans l’étui de transport de 
+recharge.
+2  Branchez l’étui de recharge à un ordinateur, un 
+ordinateur portable, un concentrateur USB, une 
+prise USB ou un adaptateur mural homologués 
+UL 60950-1 et IEC 60950-1. Le cordon USB 
+est fixé à l’étui de voyage et stocké dans le 
+compartiment de rangement du cordon.
+3  L’adaptateur mural doit comporter une sortie de 
+classe 2 ou répondre aux exigences en matière 
+de source d’alimentation limitée (LPS) et être 
+compatible avec les caractéristiques électriques 
+indiquées sur l’étui de transport.
+4  L’indicateur de la pile clignote en blanc jusqu’à 
+ce que votre brosse à dents soit complètement 
+chargée.
+Important : L’adaptateur mural doit être une source 
+de tension extrêmement basse et sécuritaire, 
+compatible avec les caractéristiques électriques 
+indiquées sur l’appareil.
+Important : Seuls les modèles de brosses à dents 
+HX993W, HX993B, HX993P, HX993S et HX993L 
+peuvent être chargés dans l’étui de voyage. Les 
+autres produits et piles ne sont pas compatibles 
+avec l’étui de voyage.
+Remarque : La période de charge complète 
+de votre Philips Sonicare est d’au moins 
+24 heures. Vous n’avez pas besoin de recharger 
+complètement votre manche avant la première 
+utilisation, car le manche est préchargé. 
+Cependant, il est recommandé de le recharger 
+complètement après la première utilisation.
+Remarque : Ce chargeur est conçu pour ne 
+recharger qu’un manche à la fois. Ce chargeur n’est 
+72 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   72 13/02/17   16:38
+pas compatible avec d’autres modèles de brosses 
+à dents Philips Sonicare.
+Remarque : Ne placez aucun objet métallique dans 
+l’étui de voyage pour ne pas gêner le chargement 
+du manche ni provoquer une surchauffe du 
+chargeur.
+Nettoyage
+Remarque : Ne mettez ni la tête de brosse, ni le 
+manche, ni l’étui de voyage au lave-vaisselle.
+Manche de la brosse à dents
+1  Retirez la tête de brosse et rincez la zone de 
+la tige en métal avec de l'eau tiède. Veillez à 
+éliminer tous les résidus de dentifrice.
+Remarque : Ne poussez pas sur le joint 
+d'étanchéité en caoutchouc de la tige en 
+métal avec un objet pointu, car vous pourriez 
+l'endommager.
+2  Nettoyez tout le manche à l'aide d'un chiffon 
+humide.
+Remarque : N'utilisez pas d'alcool à friction ou 
+d'alcool isopropylique, de vinaigre ou d'eau de 
+Javel pour nettoyer le manche car ceci pourrait 
+entraîner sa décoloration.
+Tête de brosse
+1  Rincez la tête de brosse et les poils après 
+chaque utilisation.
+2  Retirez la tête de brosse du manche et rincez 
+la base de la tête de brosse à l'eau chaude au 
+moins une fois par semaine.
+Chargeur et étui de voyage
+1  Débranchez le chargeur et l’étui de voyage 
+avant de les nettoyer.
+2  Utilisez un chiffon humide pour essuyer la 
+surface du chargeur et de l‘étui de voyage.
+73Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   73 13/02/17   16:38
+Verre
+1  Nettoyez le verre avec de l’eau légèrement 
+savonneuse.
+2  Essuyez le verre avec un linge doux.
+Le verre peut être lavé au lave-vaisselle.
+Rangement
+Si vous comptez ne pas utiliser la brosse à dents 
+Philips Sonicare pendant une période prolongée, 
+débranchez le chargeur de la prise murale, 
+nettoyez-le et rangez-le dans un endroit frais et 
+sec, à l‘abri de la lumière directe du soleil.
+Emplacement du numéro de modèle
+Examinez la partie inférieure du manche de la 
+brosse à dents Philips Sonicare pour trouver le 
+numéro de modèle (HX992W, HX992B, HX992P, 
+HX992S, HX992L, HX993W, HX993B, HX993P, 
+HX993S, HX993L).
+Mise au rebut
+Cet appareil contient une pile rechargeable qui 
+doit être mise au rebut de façon appropriée. 
+Communiquez avec les responsables locaux de 
+votre ville pour obtenir des renseignements. Vous 
+pouvez également appeler le 1-800-8-BATTERY 
+ou visiter le site www.rbrc.com pour connaître les 
+emplacements où vous pouvez mettre la pile au 
+rebut.
+Pour obtenir de l'aide, visitez le site Web  
+www.philips.com/support ou composez le 
+numéro sans frais 1 800 243-3050.
+74 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   74 13/02/17   16:38
+Retrait de la batterie rechargeable
+Avertissement : Ne retirez la pile rechargeable que 
+lorsque vous mettez l‘appareil au rebut. Veillez à 
+ce que la pile soit totalement déchargée avant de 
+la retirer.
+Pour retirer la batterie rechargeable, munissez-
+vous d‘une serviette ou d‘un tissu, d‘un marteau et 
+d‘un tournevis à tête plate (standard). Respectez 
+les mesures de sécurité élémentaires lorsque vous 
+suivez la procédure ci-dessous. Veillez à protéger 
+vos yeux, vos mains et vos doigts, ainsi que la 
+surface sur laquelle vous travaillez.
+1  Pour décharger la batterie rechargeable, retirez 
+le manche du chargeur ou de l’assainisseur, 
+allumez la Philips Sonicare et laissez-la 
+fonctionner jusqu’à ce qu’elle s’éteigne. 
+Répétez cette opération jusqu’à ce que la 
+Philips Sonicare ne s’allume plus.
+2  Retirez et jetez la tête de brosse. Recouvrez 
+l'ensemble du manche avec une serviette ou un 
+tissu.
+3  Tenez le haut du manche d'une main et frappez 
+le boîtier du manche 1 cm environ au-dessus 
+de l'extrémité basse. Frappez fermement avec 
+un marteau sur les 4 côtés pour éjecter le 
+capuchon.
+Remarque : Il sera peut-être nécessaire de 
+frapper la partie inférieure à plusieurs reprises 
+pour libérer les fermoirs internes.
+1
+2
+75Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   75 13/02/17   16:38
+4  Retirez le capuchon du manche de la brosse 
+à dents. Si le capuchon ne se détache pas 
+facilement du boîtier, répétez l'étape 3 jusqu'à 
+ce que le capuchon soit libéré.
+5  En tenant le manche à l'envers, appuyez l'axe 
+contre une surface rigide. Si les composants 
+internes ne se détachent pas facilement du 
+boîtier, répétez l'étape 3 jusqu'à ce qu'ils soient 
+libérés.
+6  Retirez le couvercle en caoutchouc du 
+compartiment de la batterie.
+7  Calez le tournevis entre la batterie et le cadre 
+noir au bas des composants internes. Ensuite, 
+faites levier sur la batterie à l'aide du tournevis 
+pour rompre la partie inférieure du cadre noir.
+8  Insérez le tournevis entre le bas de la batterie 
+et le cadre noir pour briser l'attache métallique 
+reliant la batterie à la carte verte du circuit 
+imprimé. Cela dégagera la partie inférieure de la 
+batterie du cadre.
+76 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   76 13/02/17   16:38
+9  Saisissez la batterie et séparez-la des 
+composants internes pour briser la deuxième 
+attache métallique.
+Attention : Prenez garde de ne pas vous 
+blesser aux doigts avec les bords tranchants 
+des languettes de la batterie.
+10  Couvrez les contacts de la batterie avec de 
+l'adhésif pour éviter tout court-circuit électrique 
+par la charge résiduelle de la batterie. La 
+batterie rechargeable peut maintenant être 
+recyclée et le reste du produit peut être mis au 
+rebut.
+Déclaration de conformité FCC
+Cet appareil est conforme à l’article 15 de la 
+réglementation FCC. Son utilisation est soumise 
+aux deux conditions suivantes :
+1  Cet appareil ne doit pas émettre d’interférence 
+nuisible, et 
+2  Cet appareil doit accepter toute interférence, 
+même si cette interférence est susceptible d’en 
+compromettre le fonctionnement.
+Tout changement apporté à cet appareil qui n’a 
+pas été expressément approuvé par Philips Oral 
+Healthcare peut annuler l’autorisation accordée à 
+l’utilisateur de faire fonctionner cet appareil.
+77Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   77 13/02/17   16:38
+Déclaration de conformité d’Industrie 
+Canada
+Cet appareil est conforme aux normes RSS 
+d’Industrie Canada pour appareils exempts 
+de licence. Son utilisation est soumise aux 
+deux conditions suivantes : 
+1  Cet appareil ne doit pas émettre d’interférence, et 
+2  Cet appareil doit accepter toute interférence, 
+même si cette interférence est susceptible de 
+compromettre le fonctionnement de l’appareil.
+Garantie et assistance
+Philips garantit ses produits pendant deux ans 
+à compter de la date d‘achat. À sa discrétion, 
+Philips réparera tout défaut de matériel ou de 
+main-d‘œuvre ou remplacera tout appareil 
+défectueux si une preuve d‘achat peut être 
+présentée durant la période de garantie. Pour des 
+performances optimales, Philips recommande 
+d‘utiliser exclusivement des têtes de brosse 
+Sonicare. L‘utilisation d‘autres têtes de brosse 
+peut endommager votre brosse à dents Sonicare 
+et limiter votre protection sous garantie. Si vous 
+êtes en Amérique du Nord, appelez le centre de 
+service à la clientèle au 1-800-682-7664. Sinon, 
+communiquez avec le centre de service à la 
+clientèle Philips de votre pays. Sites Web :  
+www.sonicare.com (Amérique du Nord) ou  
+www.philips.com/support (autres pays).
+78 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   78 13/02/17   16:38
+EXCLUSIONS DE GARANTIE
+Ce qui n‘est pas couvert par la garantie :
+ - Les têtes de brosse.
+ - Les dommages causés par l‘utilisation de 
+pièces de rechange ou les têtes de brosse non 
+autorisées.
+ - Les dommages causés par une mauvaise 
+utilisation, un usage abusif, de la négligence ou 
+encore des modifications ou réparations non 
+autorisées.
+ - L‘usure normale, incluant les ébréchures, les 
+égratignures, les abrasions, la décoloration ou 
+l‘affadissement des couleurs.
+GARANTIES IMPLICITES
+TOUTES LES GARANTIES IMPLICITES, Y COMPRIS 
+LES GARANTIES IMPLICITES LIÉES À LA QUALITÉ 
+MARCHANDE ET À L‘ADAPTATION À UN USAGE 
+PARTICULIER, SONT LIMITÉES À LA DURÉE DES 
+GARANTIES EXPRESSES ÉNONCÉES DANS LA 
+PRÉSENTE GARANTIE LIMITÉE. CERTAINS ÉTATS 
+N‘AUTORISANT PAS LES RESTRICTIONS DE 
+DURÉE RELATIVES AUX GARANTIES IMPLICITES, 
+LES RESTRICTIONS CI-DESSUS NE S‘APPLIQUENT 
+PAS FORCÉMENT À VOTRE CAS.
+79Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   79 13/02/17   16:38
+RESTRICTION DES RECOURS
+NI LA SOCIÉTÉ PHILIPS ORAL HEALTHCARE, 
+INC. NI AUCUNE DE SES SOCIÉTÉS ASSOCIÉES 
+OU FILIALES NE POURRONT ÊTRE TENUES 
+RESPONSABLES DES DOMMAGES SPÉCIFIQUES, 
+ACCESSOIRES OU INDIRECTS RÉSULTANT D‘UNE 
+RUPTURE DE GARANTIE, D‘UNE RUPTURE DE 
+CONTRAT, DE NÉGLIGENCE, D‘UNE FAUTE 
+DÉLICTUELLE OU DE TOUTE AUTRE THÉORIE 
+LÉGALE. DE TELS DOMMAGES COMPRENNENT, 
+SANS S‘Y LIMITER, UNE PERTE D‘ÉCONOMIES OU 
+DE REVENU, UNE PERTE DE PROFIT, 
+UNE INTERRUPTION D‘UTILISATION, LES 
+REVENDICATIONS DE TIERS, Y COMPRIS, SANS 
+S‘Y LIMITER, LES DENTISTES ET HYGIÉNISTES 
+DENTAIRES, AINSI QUE LE COÛT D‘ÉQUIPEMENT 
+OU DE SERVICES DE REMPLACEMENT. CERTAINS 
+ÉTATS NE RECONNAISSANT PAS L‘EXCLUSION 
+OU LA LIMITATION DES DOMMAGES 
+ACCESSOIRES OU INDIRECTS, LES RESTRICTIONS 
+OU EXCLUSIONS CI-DESSUS NE S‘APPLIQUENT 
+PAS FORCÉMENT À VOTRE CAS.
+80 Français (Canada)
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   80 13/02/17   16:38
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   81 13/02/17   16:38
+>75% recycled paper 
+>75% papier recyclé
+www.philips.com/Sonicare
+©2017 Koninklijke Philips N.V. (KPNV). All rights reserved.
+Philips and the Philips shield are trademarks of KPNV.
+Sonicare and the Sonicare logo are trademarks
+of Philips Oral Healthcare, LLC and/or KPNV.
+©2017 Koninklijke Philips N.V. (KPNV). Tous droits réservés.
+Philips et le blason Philips sont des marques de commerce de KPNV.
+Sonicare et le logo Sonicare sont des marques de commerce
+de Philips Oral Healthcare, LLC et (ou) KPNV. 4235.021.2499.1
+4235_021_2499_1_Booklet_Lux_A6_US_v1.indd   82 13/02/17   16:38
+
